@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=squidtoon99&show_icons=true&locale=en&layout=compact" alt="squidtoon99" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=squidtoon99&show_icons=true&locale=en" alt="squidtoon99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=squidtoon99&" alt="squidtoon99" /></p>
