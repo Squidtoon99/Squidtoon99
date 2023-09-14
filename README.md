@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Squid</h1>
-<h3 align="center">Learning to code with fun projects</h3>
+<h1 align="center">Hi 👋, I'm Arjun</h1>
+<h3 align="center">Creating scalable solutions on the internet</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=squidtoon99&label=Profile%20views&color=0e75b6&style=flat" alt="squidtoon99" /> </p>
 
@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Serverless deployments**
 
-- 🔗 Check out [my website](https://squid.pink)
+- 🔗 Check out [my portfolio](https://squid.pink)
 
 - 🤝 I’m looking for help with **AWS Lambda**
 
-- 💬 Ask me about **my discord bot**
-
-- 📫 How to reach me **arjun@squid.pink**
+- 📫 How to reach me **arjunsnayak@gmail.com**
 
 <h3 align="left">Connect with me on <strong><a href="https://discord.gg/TMu242J"> Discord </a> </strong></h3>
 
